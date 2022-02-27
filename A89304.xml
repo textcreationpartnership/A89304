@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prisoners letter to the Kings most Excellent Maiesty, and the high court of Parlament.</title>
+            <author>Morgan, Edward, d. 1642.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89304</idno>
+            <idno type="STC">Wing M2731</idno>
+            <idno type="STC">Thomason E144_17</idno>
+            <idno type="STC">ESTC R11353</idno>
+            <idno type="EEBO-CITATION">99859006</idno>
+            <idno type="PROQUEST">99859006</idno>
+            <idno type="VID">156626</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156626)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prisoners letter to the Kings most Excellent Maiesty, and the high court of Parlament.</title>
+                  <author>Morgan, Edward, d. 1642.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Domini 1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Edward Morgan.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156626:1" rendition="simple:additions"/>
+            <p>A PRISONERS LETTER To the Kings moſt excellent Maieſty, and the High Court of Parlament.</p>
+            <p>
+               <hi>LONDON:</hi> Printed <hi>Anno Domini</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156626:2"/>
+            <pb n="1" facs="tcp:156626:2"/>
+            <head>
+               <hi>To the Kings moſt excellent Majeſtie.</hi> AND <hi>To the High Court of Parlament, and in them to the whole Kingdome of England.</hi>
+            </head>
+            <opener>
+               <salute>Dread Sovereigne,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Make a tender to your Royall Majeſty (and in you, to the high Court of Parlament, and to your whole Kingdome) of an illuſtrious example of the divine providence, no leſſe wonderfull for admiration, then the diſ<g ref="char:EOLhyphen"/>covery of Gods judgments, made by the Prophet <hi>Daniel</hi> to King <hi>Nebuchodonozor,</hi> and <hi>Baltaſsar</hi> his ſonne; nor leſſe behoofull for the good and welfare of your ſelfe, our gracious Queene, your Royall of-ſpring, &amp; our whole Kingdom (if you wil vouchſafe to apprehend, and make uſe of it) then the diſcovery of the treacheries of <hi>Bagathan</hi> and <hi>Thares,</hi> and of the pernicious devices of wicked <hi>Aman,</hi> made by <hi>Mardocheus</hi> to King <hi>Ahaſsuerus,</hi> was for him and his people.</p>
+            <p>My courſe hath been directed to your Royall Majeſty, by Gods ſacred, and ſpeciall appointment, ever ſince your firſt comming to your Crown, and before; though I never addreſſed any writing unto you in ſpeciall about this mat<g ref="char:EOLhyphen"/>ter, till now; becauſe I was firſt to deale with <hi>Roman</hi> Ca<g ref="char:EOLhyphen"/>tholiks, and afterwards with ſome of your Juſtices, Judges, and other Officers; and finally to expect in patience ſome events of the divine providence, ſucceeding thereupon, that aſcending to your Royall Tribunall by degrees, I
+<pb n="2" facs="tcp:156626:3"/>might have more ample and ſpeciall matter every way to preſent, and not appear empty handed before you.</p>
+            <p>Now Gods judgements are growne to a great ripeneſſe; or (to ſpeake with alluſion to our Bleſſed Saviours expreſ<g ref="char:EOLhyphen"/>ſion in a like caſe) <hi>the Fig tree hath budded whereby men may know Summer is nigh.</hi> Wherefore, if your Royall Ma<g ref="char:EOLhyphen"/>jeſty, and the high Court of Parlament, will be pleaſed to make a due enquirie and examination of my courſe, whereby the matter of fact may be authentically made knowne; and then caſt a ſerious eye upon the publike events of the divine providence, which (ſucceeding in due conformity, and conſequence theſe many yeeres, and parallell to the approved teſtimonies of Gods ſpeciall judgments in ancient times) are, as it were, the great broad Seale of Heaven, giving weight, and authority to my words, and endeavours; beſides that your Majeſty may with eaſe ſee, that there is a ſupernaturall order of things, taught by ſupernaturall faith (which one not many yeeres ſince in a publique printed booke dedicated to your high<g ref="char:EOLhyphen"/>neſſe, hath endeavoured to evacuate) you may moreover with like facility perceive, how the ſacred decrees of Gods heavenly providence, are drawne up, not only con<g ref="char:EOLhyphen"/>cerning the reſt of the Chriſtian world, but alſo eſpecially concerning you, and your Kingdome, and by conforming your ſelf to his holy will, decline the common miſchiefs approaching, which otherwiſe by no humane meanes can poſsibly be avoided.</p>
+            <p>Let not my meaneſſe (who am but an unworthy in<g ref="char:EOLhyphen"/>ſtrument, and the leaſt of your Majeſties ſubjects) move your Highneſſe, or the grave Aſſembly of Parlament, to deſpiſe the offer which I make, but firſt enquire, and ex<g ref="char:EOLhyphen"/>amine diligently (as both Gods law, and mans reaſon doe eq<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire) and then judge. There are ſome dangers, which
+<pb n="3" facs="tcp:156626:3"/>can neither be known, nor avoided, unleſſe they bee firſt gratiouſly diſcovered by ſome ſpecial favour, and oper<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<g ref="char:EOLhyphen"/>on of the firſt cauſe which is God himſelfe, from whom nothing can be hid, and in ſuch caſes, though his divine Majeſty doth many times imploy men of great wiſdom, and ſanctitie (as he did the prophet <hi>Elizeus</hi> to diſcover to the king of <hi>Iſraell</hi> the ambuſhments ſet to entrap him by the King of <hi>Syria</hi>) yet he dorh ſometimes alſo, not onely uſe the moſt contemptible of men, as inſtruments to make the greateſt Potentats acquainted with his ways, and ſo en<g ref="char:EOLhyphen"/>able them to avoid prepared miſchiefs, but moreover ta<g ref="char:EOLhyphen"/>keth a brute beaſt for the like purpoſe, as in the caſe of <hi>Ba<g ref="char:EOLhyphen"/>laam</hi> and his Aſſe.</p>
+            <p>Your Majeſties great Predeceſſor <hi>William</hi> the Conque<g ref="char:EOLhyphen"/>rour thought it wiſdome, in a certain occaſion, to hearken to the advertiſement even of a naturall foole, as wee reade in our Chronicles: and long before his time, <hi>Alexander</hi> the Great gave eare to a woman, who was thought diſtra<g ref="char:EOLhyphen"/>cted, as <hi>Curtius</hi> the Hiſtorian doth teſtifie; by which hap<g ref="char:EOLhyphen"/>pie credulity (God, who is all able to make fooles and mad men ſpeake his wiſdome, having diſcovered his divine knowledge and judgment by means of thoſe ſilly ones) thoſe two great Princes avoyded imminent danger of death, and conſerved their lives, and fortunes, for their great ſucceeding victories. On the other ſide, the neglect of timely advertiſements, hath brought many great Princes, and amongſt the reſt, that great Monarch <hi>Iu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius Caeſar,</hi> to the loſſe of their Crowns and lives. <hi>He that will not hearken to God in his gratious ſignes and forewarnings, muſt feele his heavie hand, when it will be to late to avoide it.</hi>
+            </p>
+            <p>For mee I do not profeſſe my ſelfe among the number of wiſe men, and if your Majeſty, or the great aſſembly of State now on foot, pleaſe, you may take mee for a foole,
+<pb n="4" facs="tcp:156626:4"/>or a mad man (provided you acknowledg, that God al<g ref="char:EOLhyphen"/>mighty can by his holy over ruling ſpirit, make a mad<g ref="char:EOLhyphen"/>neſſe prodigious, and ſo uſe the follie or madneſſe of his creature, as an inſtrument to expreſſe an act of his divine wiſdome, providence, and power:) but what ever I be, fooliſh, or wiſe, or however your royall Majeſty, or the high Court of Parlament ſhall be pleaſed to thinke of me, <hi>God is wiſe even in the foole and mad man,</hi> and his holy will is to be ſearched out in all: which if it had beene duely done more then thirteene yeeres agoe (adhering cloſe to the te<g ref="char:EOLhyphen"/>ſtimony of Divine and humane law, implyed in the reality of my whole courſe, with a due inſpection of the counter-ſignes extant even then in the ſeeds of thoſe heavie events, which have appeared ſince moſt plainly to the view of all in their own proper &amp; perfect exiſtence) when before ſome of your Majeſties tribunals, I did publikely in GODS name, and in vertue of his publique lawes, ſpeciall right, and command, with due relation likewiſe to the Lawes of our Realme, and two of your royall Maje<g ref="char:EOLhyphen"/>ſties Proclamations, invite your royall Highneſſe, and your whole Kingdom, to a due enquirie of Gods prepared judgments, and of the devices then in hatching to entrap you, and your People; not onely your Judges, &amp; other per<g ref="char:EOLhyphen"/>ſons of higher ranke, and note, who lie now expoſed to the rod of Juſtice, might have beene freed from undergo<g ref="char:EOLhyphen"/>ing the danger now threatning them; but your Majeſty alſo might with eaſe and ſecurity have prevented thoſe trou<g ref="char:EOLhyphen"/>bles, and miſchiefs, which turmoile at this preſent all your Realmes, and threaten a deſolation. So much it behoves Princes and States to attend, and examine well, if God almighty doe but make even <hi>Balaams</hi> Aſſe bray forth ſome imminent judgments in his holy name. <hi>For miſchiefs ariſing from the power of man may by the power of man with Gods ordinarie concourſe bee extinguiſhed or averted: but ſuch as
+<pb n="5" facs="tcp:156626:4"/>are threatned by God Almighties ſpeciall hand, and power, can by no meanes poſsible be avoided, but by admiſsion, and performance of ſuch conditions, as his divine Majeſtie is pleaſed to propoſe.</hi>
+            </p>
+            <p>I have ſtrove to keep ſilence now theſe many yeers, be<g ref="char:EOLhyphen"/>ing loth to medle any more in a cauſe, which hath coſt me ſo much trouble, and affliction (though I know not why I ſhould be ſo handled by any for ſuffering God Almightie to expreſſe in mee, whether men will have it to have beene by the intermediation of wit or madneſſe, a teſtimony of his divine providence towards his Church, and people) but I da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e be ſilent no longer, being furniſhed now with ſuch illuſtrious evidence of fore-paſſed events proper to my cauſe, to confirme my words, and the thing it ſelfe concer<g ref="char:EOLhyphen"/>ning ſo deeply your Royall Majeſty, Our gracious Queen, your Royall Of-ſpring, and our whole Kingdome: leſt God Almighty ſhould inflict upon mee the judgement threatned againſt the Watchman in the thirty third Chap<g ref="char:EOLhyphen"/>ter of the Prophet <hi>Ez<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chiel;</hi> yet I will forbeare to trouble your Royall Majeſtie, with the ſpecification of particulars, till I ſee whether I be thought fit to be admitted to a free, and indifferent hearing, or no. One thing I muſt crave par<g ref="char:EOLhyphen"/>don of your Royall Majeſtie, and the great Aſſembly of Parliament; that I addreſſe my ſelfe thus to you in print, before I have acquainted you with my caſe in a more pri<g ref="char:EOLhyphen"/>vate way. The reaſon I have done ſo is: that ſeeing every man now prints, what hee liſts; and my cauſe hath beene many yeers ſince publike, and I ſuffered ſo much in mayn<g ref="char:EOLhyphen"/>tenance of it under the view of many; I may either by the teſtimony of ſome at leaſtwiſe of thoſe many, be introdu<g ref="char:EOLhyphen"/>ced to a free, and publike audience: or elſe upon compaſsi<g ref="char:EOLhyphen"/>on be voted, as a foole or madman, to be ſet free from pri<g ref="char:EOLhyphen"/>ſon, and further trouble (ſeeing I never appeared in ſo ma<g ref="char:EOLhyphen"/>ny yeeres extremities, either furious, ſeditious, or turbu<g ref="char:EOLhyphen"/>lent)
+<pb n="6" facs="tcp:156626:5"/>and ſo be committed to the care of my friends, that I may end my old age in peace, and quietneſſe; commending you, and your Kingdome, to Gods mercifull providence, care, and protection.</p>
+            <p>I humbly beſeech God Almighty, to bleſſe, and protect your Royall Majeſtie, our gracious Queene, your Royall Of-ſpring, and our whole Kingdome, and grant that you may know his holy will, and faithfully perform the ſame to the glory of the divine Majeſtie, and the common com<g ref="char:EOLhyphen"/>fort, and good of all.</p>
+            <closer>
+               <dateline>
+                  <hi>In the common Wards of the Fleet,</hi> 
+                  <date>
+                     <hi>the ninth of</hi> October, 1641.</date>
+               </dateline>
+               <signed>Your Royall Majeſties loyall and lowly Subject, <hi>Edward Morgan.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
